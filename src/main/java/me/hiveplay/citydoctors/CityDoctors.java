@@ -8,7 +8,6 @@ public final class CityDoctors extends JavaPlugin {
     public void onEnable() {
         // Plugin startup logic
         System.out.println("Hejo");
-
     }
 
     @Override
