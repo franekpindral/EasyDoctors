@@ -1,0 +1,6 @@
+name: EasyDoctors
+version: '${project.version}'
+main: me.hiveplay.citydoctors.CityDoctors
+api-version: 1.16
+authors: [ hiveplay ]
+description: Plugin na system lekarski EasyLife2
